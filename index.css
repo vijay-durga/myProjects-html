@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img-23 {
+    height: 35vh;
+    background-size: cover;
+}
+
+.p-1-m-bg-cont{
+    height:250vh;
+}
+
+.p-1-m-heading {
+    font-family: "bree serif";
+    color: #183b56;
+}
+
+.p-1-m-para {
+    font-family: "bree serif";
+}
+
+.img-24 {
+    height: 120px;
+    width: 180px;
+    padding: 5px;
+}
+
+.deep-bg-cont {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/advanced-technologies-img.png");
+    height: 150vh;
+    background-size: cover;
+}
+
+.deeep-card-cont {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+}
+
+.deep-heading {
+    color: #5752ab;
+    font-family: "bree serif";
+    font-size: 23px;
+}
+
+.deep-para {
+    color: #323f4b;
+    font-family: "roboto";
+}
+
+.deep-morebutton {
+    color: #171f46;
+    background-color: #ffffff;
+    font-family: "roboto";
+    font-size: 14px;
+    height: 38px;
+    width: 130px;
+    border-radius: 10px;
+    border-color: #d7dfe9;
+    border-style: solid;
+    margin-right: 5px;
+    border-width: 1px;
+}
+
+.deep-savebutton {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 14px;
+    height: 38px;
+    width: 130px;
+    border-radius: 10px;
+    margin-left: 5px;
+    border-width: 0px;
+}
+
+.bg-cont-diwali {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-img.png");
+    height: 40vh;
+    background-size: cover;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 40vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.bg-container-food {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+    color: #323f4b;
+
+}
+
+.food-card-food {
+    background-color: #f6c56e;
+    text-align: left;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 100vw;
+    padding: 10px;
+}
+
+.main-heading-food {
+    font-family: "Bree Serif";
+}
+
+.para-1-food {
+    font-family: "roboto";
+    font-size: 25px;
+}
+
+.button-food {
+    border-radius: 10px;
+    color: black;
+    background-color: #ffffff;
+    font-family: "roboto";
+    font-size: 14px;
+    height: 38px;
+    width: 130px;
+    border-color: #d7dfe9;
+    border-style: solid;
+    margin-right: 5px;
+    border-width: 1px;
+}
+
+.main-backgroundimage-news {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 130vh;
+    text-align: left;
+}
+
+.carddetails-news {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: left;
+    height: 40vh;
+    width: 100vw;
+    padding: 10px;
+}
+
+.carddetailsmain-heading-news {
+    font-family: "roboto";
+    font-weight: bold;
+    color: #323f4b;
+    text-align: left;
+    margin-bottom: 90px;
+}
+
+.headd-news {
+    font-size: 26px;
+    margin-top: 2vh;
+}
+
+.carddetailsmain-para-news {
+    font-size: 11px;
+    font-weight: lighter;
+    color: #7b8794;
+    font-family: "roboto";
+
+}
+
+.button-news {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 10px;
+    margin: 5px;
+    height: 38px;
+    width: 138px;
+}
